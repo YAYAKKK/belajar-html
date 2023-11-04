@@ -1,0 +1,26 @@
+h1{color:rgb
+    (116, 194, 15)}
+p{ color: black}
+
+.pembukaan {
+    color: green;
+}
+body.contact{
+    background-color: grey
+}
+.kendala{
+    color: white;
+}
+.admin{
+font-family: Calibri; 
+color: black;
+background-color: grey;
+
+}
+body.listbook{
+    background-color: white;
+}
+body.bodyhome{
+    background-image: url('sayapsayappatah.png');
+    
+}

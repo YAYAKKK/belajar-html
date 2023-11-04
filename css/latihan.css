@@ -1,0 +1,47 @@
+/* universal selector untuk semua komponen yang ada */
+*{
+    font-family: Tahoma;
+}
+/* type selector untuk tipe yang mana yang kita mau */
+h1{
+    font-size: 20px;
+}
+
+/* clas selector */
+.artikel{
+    font-size: 30px;
+}
+
+.kredit{
+    font-size: 12px;
+}
+
+.penulis{
+    color: green;
+}
+.tanggal{
+    color: red;
+}
+
+/* id selector */
+#artikel-1{
+    color: blue;
+}
+
+/* child selector atau dalamnya ke dalam */
+
+p>span{
+    color: green;
+}
+
+/* first chil mengambil di dalam */
+
+h3+p{
+    color: red;
+    font-size: 20px;
+}
+
+/* old child */
+h1~p{
+    text-align: justify;
+}
