@@ -1,0 +1,27 @@
+*{
+    font-family: tahoma;
+}
+
+/* spesfik */
+p b{
+    color: greenyellow;
+}
+
+/* jika kita menyertakan importan maka ini akan dieksekusi dan mengabaikan yang terakhir karena ini penting */
+
+p b{
+    color: cyan !important;
+}
+/* mirip seperti python aturan terakhir akan diekskusi */
+p b{
+    color: red;
+
+    /* ini akan dieksekusi dibanding dengan identitas dibawah karena lebih spesifik */
+    font-size: 150%;
+}
+
+/* menggunakan indentitas */
+/* /ini lebih spesifik */ 
+p#pendahuluan{       
+    font-size: 50%;
+}
