@@ -1,0 +1,47 @@
+/* universal selector */
+*{
+    font-family: Tahoma;
+}
+
+/* Type Selector */
+h1{
+    font-size: 35px;
+}
+
+/* class selector */
+
+.artikel{
+    font-size: 20px;
+}
+
+.credit{
+    font-size: 20px;
+}
+.penulis{
+    color: aqua;
+}
+.tanggal{
+    color: red;
+}
+
+/* id selector */
+#artikel-1{
+    color: blueviolet;
+}
+
+/* child selector */
+p>span{
+    color: chartreuse;
+}
+
+/* firstchild atau kriteria pertama setelah yang kita tentukan */
+
+h3+p{
+    color: chocolate;
+    font-size: 15px;
+    font-family: arial;
+
+}
+/* all child atau semua paragraf */
+h1~p{
+    text-align:justify;}
