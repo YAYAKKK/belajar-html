@@ -1,0 +1,54 @@
+title{
+    color: red;
+}
+body{
+    background-color: rgb(203, 203, 219);
+    text-align: justify;
+}
+h1{
+    padding: 10px;
+    text-align: center;
+    background-color: rgba(46, 70, 46, 0.5);
+    font-family: verdana;
+}
+
+.artikel{
+    background-color: rgba(123, 151, 180, 0.533);
+    font-family: tahoma;
+    padding: 10px;
+    text-align: justify;
+}
+
+h3{
+    background-color: rgba(70, 93, 117, 0.533);
+    font-family: tahoma;
+    padding: 10px;
+    text-align: justify;
+}
+.penulis{
+    color: black;
+    background-color: rgba(204, 209, 219, 0);
+    font-family: tahoma;
+    padding: 10px;
+    text-align: justify;
+}
+#pengertian{
+    text-align: justify;
+    padding: 10px;
+    background-color: rgb(194, 231, 194);
+}
+i{
+    color: red;
+}
+#kegunaan{
+    text-align: justify;
+    padding: 10px;
+    background-color: rgb(194, 231, 194);
+}
+p>span{
+    color: red;
+}
+q{
+    color: red;
+    background-color: inherit;
+}
