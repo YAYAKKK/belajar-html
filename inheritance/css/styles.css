@@ -1,0 +1,13 @@
+body{
+    font-family: helvetica;
+    color: aqua;
+    padding: 20px;
+}
+.awalan{
+    color: green; 
+    border: 2px solid;
+    background-color: #efefef;
+    text-align: right;
+    /* jika dipakai inherit maka dia akan memformat sesuai padding yang ada sebelumnya yaitu di body */
+    padding: inherit;
+}
