@@ -1,0 +1,64 @@
+body{
+    background-color:burlywood;
+}
+.pertama{
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: burlywood;
+}
+.perkenalan{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    text-align: justify;
+}
+.terserah{
+    width: auto;
+    height: auto;
+    background-color: blueviolet;
+    text-align: justify;
+}
+
+.random{
+    
+        width: auto;
+        height: auto;
+        background-color:brown;
+        text-align: justify;
+}
+
+.kedua{
+    width: auto;
+        height: auto;
+        background-color:gold;
+        text-align: justify;
+}
+.keluhan{
+    width: auto;
+        height: auto;
+        background-color:magenta;
+        text-align: justify;
+}
+.random2{
+    width: auto;
+        height: auto;
+        background-color:mediumslateblue;
+        text-align: justify;
+}
+.apaaja2{
+    width: auto;
+        height: auto;
+        background-color:greenyellow;
+        text-align: justify;
+}
+
+.random3{
+    width: auto;
+    height: 200px;
+    background-color:yellowgreen;
+    overflow: auto;
+    text-align: justify;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
